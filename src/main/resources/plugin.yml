@@ -1,0 +1,6 @@
+name: StackedTotemLimiter
+version: ${project.version}
+main: me.krymz0n.stackedtotemlimiter.Main
+authors: [ KRYMZ0N ]
+description: A paper plugin that prevents players from using stacked totems. Good plugin if you want to facilitate the crafting dupe, but don't want stacked totems.
+website: www.3b3t.me
